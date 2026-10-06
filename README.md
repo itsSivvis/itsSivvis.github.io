@@ -22,6 +22,6 @@ Danach http://localhost:8000 öffnen. ES-Module erfordern HTTP; die HTML-Datei n
 
 ## Dateien und Hosting
 
-`index.html`, `style.css`, `game.js` und `engine.js` bilden das Spiel. GitHub Pages veröffentlicht das Hauptverzeichnis von `main`; ein Build ist nicht erforderlich. Die bisherige Visitenkarte liegt unter `/visitenkarte/`.
+`index.html`, `style.css`, `game.js` und `engine.js` bilden das Spiel. GitHub Pages veröffentlicht das Hauptverzeichnis von `main`; ein Build ist nicht erforderlich. Die berufliche Visitenkarte von Christoph Hofmann liegt unter `/visitenkarte/`.
 
 Three.js 0.180.0 liegt unter `vendor/`. Die MIT-Lizenz ist in `vendor/LICENSE` enthalten.
